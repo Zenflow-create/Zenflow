@@ -12,3 +12,17 @@ Daily Goals: Set and track your goals to stay motivated.
 Responsive Design: Works on desktop and mobile devices.
 
 Lightweight & Fast: Built with Flask for smooth and quick performance.
+How to use it
+Download the code from GitHub.
+
+Install Python on your computer.
+
+Open the folder with the code.
+
+Run the app with python app.py.
+
+Open your web browser and go to http://localhost:5000.
+
+Use the timer and task features to stay productive.
+
+
