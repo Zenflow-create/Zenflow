@@ -1,31 +1,55 @@
-# Zenflow
-ZenFlow
-ZenFlow is a simple and effective productivity app designed to help you focus, manage tasks, and achieve your goals. It features a Pomodoro timer, daily goals tracker, and a clean, minimal interface for maximum focus.
+# ZenFlow
 
-Features
-Pomodoro Timer: Work in focused intervals with breaks to maintain productivity.
+Mindful Productivity, Meaningful Progress
 
-Task Manager: Add, edit, and complete daily tasks.
+---
 
-Daily Goals: Set and track your goals to stay motivated.
+## 📑 Contents
 
-Responsive Design: Works on desktop and mobile devices.
+- Current Features
+- Upcoming Features
+- Installation
+- Screenshots
+- Technologies Used
+- Future Plans
+- Contributing
+- License
+- Contact
 
-Lightweight & Fast: Built with Flask for smooth and quick performance.
+---
 
+## ✨ Current Features
 
+- Pomodoro timer with breaks
+- Task management with priorities
+- Daily goals tracking
+- Responsive design (mobile & desktop)
+- Lightweight & fast
 
-How to use it
-Download the code from GitHub.
+---
 
-Install Python on your computer.
+## 🚀 Upcoming Features
 
-Open the folder with the code.
+- AI-powered focus reminders
+- Mood tracking and journaling
+- Cross-device sync
+- Custom notifications
 
-Run the app with python app.py.
+---
 
-Open your web browser and go to http://localhost:5000.
+## 🛠️ Installation
 
-Use the timer and task features to stay productive.
+### Prerequisites
+
+- Python 3.x
+- Flask
+
+### Setup
+
+```bash
+git clone https://github.com/YOUR_USERNAME/ZenFlow.git
+cd ZenFlow
+pip install -r requirements.txt
+python app.py
 
 
